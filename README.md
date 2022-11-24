@@ -14,7 +14,7 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
+### Screenshots
 
 ![](solution-images/desktop-design.png)
 ![](solution-images/desktop-active.png)
