@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](frontmentor-projects/interactive-rating-component-main/solution-images/desktop-active.png)
+![](solution-imagesdesktop-design.png)
 
 
 ### Built with
