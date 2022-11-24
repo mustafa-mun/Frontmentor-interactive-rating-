@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://interactive-rating-3f150.web.app/)
+- Live Site URL: [https://interactive-rating-3f150.web.app/]
 
 ## My process
 
