@@ -17,10 +17,9 @@ Users should be able to:
 ### Screenshots
 
 ![](solution-images/desktop-design.png)
-![](solution-images/desktop-active.png)
 ![](solution-images/desktop-thanks.png)
 ![](solution-images/mobile-design.png)
-![](solution-images/mobile-thanks.png)
+
 
 ### Links
 
