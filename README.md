@@ -18,7 +18,7 @@ Users should be able to:
 
 ![](solution-images/desktop-design.png)
 ![](solution-images/desktop-thanks.png)
-![](solution-images/mobile-design.png)
+
 
 
 ### Links
